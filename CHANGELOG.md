@@ -1,3 +1,13 @@
+# 2.0.0
+
+### 🩹 Fixes
+
+- ⚠️  enforce contravariant parameter checking in 'Comparable' ([7e943c4](https://github.com/fundamentry/trait/commit/7e943c4))
+
+### ⚠️  Breaking Changes
+
+- enforce contravariant parameter checking in 'Comparable'  ([7e943c4](https://github.com/fundamentry/trait/commit/7e943c4))
+
 ## 1.2.0
 
 ### 🚀 Features
