@@ -1,3 +1,3 @@
-export interface Comparable<T = unknown> {
-  compareTo(other: T): number;
+export interface Comparable<in T> {
+  compareTo: (other: T) => number;
 }
