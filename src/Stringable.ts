@@ -1,3 +1,3 @@
 export interface Stringable {
-  toString(): string;
+  [Symbol.toPrimitive]: (hint: 'string' | 'number' | 'default') => string;
 }
