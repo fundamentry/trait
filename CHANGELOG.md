@@ -1,3 +1,9 @@
+## 3.1.0
+
+### 🚀 Features
+
+- add 'Discrete' trait ([cb522c7](https://github.com/fundamentry/trait/commit/cb522c7))
+
 # 3.0.0
 
 ### 🚀 Features
