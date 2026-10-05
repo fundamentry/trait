@@ -1,3 +1,18 @@
+# 3.0.0
+
+### 🚀 Features
+
+- ⚠️  key 'Comparable' by a registered symbol ([edbabac](https://github.com/fundamentry/trait/commit/edbabac))
+- ⚠️  key 'Equatable' by a registered symbol ([189b1e0](https://github.com/fundamentry/trait/commit/189b1e0))
+- add 'is' and 'equals' helpers to 'Equatable' ([81d618a](https://github.com/fundamentry/trait/commit/81d618a))
+- ⚠️  base 'Stringable' on 'Symbol.toPrimitive' ([03a3fbd](https://github.com/fundamentry/trait/commit/03a3fbd))
+
+### ⚠️  Breaking Changes
+
+- base 'Stringable' on 'Symbol.toPrimitive'  ([03a3fbd](https://github.com/fundamentry/trait/commit/03a3fbd))
+- key 'Equatable' by a registered symbol  ([189b1e0](https://github.com/fundamentry/trait/commit/189b1e0))
+- key 'Comparable' by a registered symbol  ([edbabac](https://github.com/fundamentry/trait/commit/edbabac))
+
 # 2.0.0
 
 ### 🩹 Fixes
